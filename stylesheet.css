@@ -215,6 +215,7 @@ nav a {
     padding: 5px;
     margin: 0 auto;
     color: white;
+    cursor: pointer;
 }
 
 /* footer */
