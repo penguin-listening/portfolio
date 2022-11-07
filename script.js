@@ -42,6 +42,7 @@ $(function(){
 
     $('#ok').click(function(){
         $('#bg').fadeOut(300);
+        return false;
     });
 });
 
