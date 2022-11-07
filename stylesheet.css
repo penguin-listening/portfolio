@@ -24,7 +24,7 @@ img {
     flex-direction: column;
     justify-content: center;
     text-align: center;   
-    background-image: url(/images/fv-bg.png);
+    background-image: url(https://github.com/penguin-listening/portfolio/blob/main/fv-bg.png?raw=true);
     background-size: cover;
     background-color: rgba(255,255,255, 0.7);
     background-blend-mode: overlay;
@@ -141,7 +141,7 @@ nav a {
 /* backgroundimg */
 .backgroundimg {
     height: 256px;
-    background-image: url(/images/IMAGE.png);
+    background-image: url(https://github.com/penguin-listening/portfolio/blob/main/IMAGE.png?raw=true);
     opacity: 0; 
     visibility: hidden;
     transform: rotateY('30px');
